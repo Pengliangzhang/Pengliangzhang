@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pengliangzhang
 - 👀 I’m interested in Badminton and Software Development
-- 🌱 I’m currently learning Java Spring Boot
+- 🌱 I’m currently learning Java Spring Boot && Spring Cloud
 - 📫 How to reach me beck-zhang@hotmail.com
 
 <!---
